@@ -1,4 +1,6 @@
 ciao, questo è un test
 ho rimosso la repository sul rasp 
 nessun problema ora la clono sul rasp
+Perfetto la repositori è stata clonata sul raspberry
+ora modifico e rifaccio il push
 
