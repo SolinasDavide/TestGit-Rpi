@@ -1,2 +1,4 @@
 ciao, questo è un test
+ho rimosso la repository sul rasp 
+nessun problema ora la clono sul rasp
 
